@@ -6,8 +6,6 @@ DevOps Engineer
 
 DevOps Engineer with 9+ years of experience, specializing in cloud platforms, container orchestration, and security. Proven track record in developing CI/CD pipelines, automating infrastructure, and configuring databases and web servers. Skilled in incorporating AI models to enhance web tools, improving user experience and efficiency. Proficient in Git, cloud platforms, CI/CD tools, Unix and Bash, container orchestration, and security tools. Committed to excellence and customer satisfaction, eager to contribute to future projects and grow professionally.
 
-* ✉️  You can contact me at [minasyan.business@gmail.com](mailto:minasyan.business@gmail.com)
-
 ### Skills
 
 
